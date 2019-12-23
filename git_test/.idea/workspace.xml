@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05f60af0-b2aa-4b2e-99e8-76655e6fc2ac" name="Default" comment="a" />
+    <list default="true" id="05f60af0-b2aa-4b2e-99e8-76655e6fc2ac" name="Default" comment="a">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ali/test/A.java" afterPath="$PROJECT_DIR$/src/main/java/com/ali/test/A.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,12 +28,9 @@
       <file leaf-file-name="A.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ali/test/A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-              <folding>
-                <element signature="e#83#84#0" expanded="true" />
-                <element signature="e#129#130#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="95">
+              <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -280,7 +279,7 @@
       <workItem from="1572438609574" duration="175000" />
       <workItem from="1576398698527" duration="733000" />
       <workItem from="1576458835422" duration="10000" />
-      <workItem from="1577103687234" duration="249000" />
+      <workItem from="1577103687234" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1570767482347</created>
@@ -293,7 +292,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2500000" />
+    <option name="totallyTimeSpent" value="2566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -416,12 +415,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ali/test/A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="95">
+          <caret line="5" column="39" lean-forward="false" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
